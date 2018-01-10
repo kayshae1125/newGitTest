@@ -11,6 +11,7 @@ namespace newGitConsoleApp
             var username = Console.ReadLine(); 
             Console.WriteLine("Nice to meet you, " + username + "!");
             Console.WriteLine("New Line.. what happens now?");
+            Console.ReadKey();
         }
     }
 }
