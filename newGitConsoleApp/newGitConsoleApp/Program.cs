@@ -8,7 +8,8 @@ namespace newGitConsoleApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("What is your name?");
-            var username = Console.ReadLine();            
+            var username = Console.ReadLine(); 
+            Console.WriteLine("Nice to meet you, " + username + "!");
         }
     }
 }
