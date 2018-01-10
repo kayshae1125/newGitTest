@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newGitConsoleApp", "newGitConsoleApp\newGitConsoleApp.csproj", "{25996BE9-FAC5-4F18-AC79-D380BBEA0A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25996BE9-FAC5-4F18-AC79-D380BBEA0A96}.Debug|x86.ActiveCfg = Debug|x86
+		{25996BE9-FAC5-4F18-AC79-D380BBEA0A96}.Debug|x86.Build.0 = Debug|x86
+		{25996BE9-FAC5-4F18-AC79-D380BBEA0A96}.Release|x86.ActiveCfg = Release|x86
+		{25996BE9-FAC5-4F18-AC79-D380BBEA0A96}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
