@@ -16,9 +16,8 @@ namespace newGitConsoleApp
         }
 
         public int GetAge()
-
         {
-            return Age;
-        }
+            return Age;    
+        }        
     }
 }
